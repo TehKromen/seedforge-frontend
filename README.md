@@ -1,6 +1,6 @@
 # SeedForge Frontend
 
-[![Angular](https://img.shields.io/badge/Angular-v16+-dd0031?logo=angular&logoColor=white)](https://angular.io/)
+[![Angular](https://img.shields.io/badge/Angular-v20+-dd0031?logo=angular&logoColor=white)](https://angular.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the frontend of the **SeedForge** project — a platform for collaborative development project management and visualization.
