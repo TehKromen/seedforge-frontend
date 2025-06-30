@@ -24,4 +24,4 @@ This is the frontend of the **SeedForge** project — a platform for collaborati
 
 ```bash
 git clone https://github.com/TehKromen/seedforge-frontend.git
-cd SeedForge-frontend
+cd seedforge-frontend
